@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:oak_planks"
+    },
+    "title": {
+      "text": "Interior Designer",
+      "color": "aqua"
+    },
+    "description": "Place 50 decoration blocks",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/white_concrete.png"
+  },
+  "criteria": {
+    "place_50": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 500
+  }
+}
