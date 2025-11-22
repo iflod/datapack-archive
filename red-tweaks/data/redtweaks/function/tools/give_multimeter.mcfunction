@@ -1,0 +1,2 @@
+# Da un multimetro per redstone al giocatore
+give @s carrot_on_a_stick{display:{Name:'{"text":"Redstone Multimeter","color":"red","bold":true}',Lore:['{"text":"Misura la potenza del segnale","color":"gray","italic":false}','{"text":"Click destro su componenti redstone","color":"dark_gray","italic":false}']},rt_multimeter:1b,CustomModelData:730001}
